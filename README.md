@@ -1,8 +1,3 @@
----
-output: 
-  html_document: 
-    keep_md: yes
----
 # hello-world
 
 Working through Brad Duthie tutorial on IBM's
