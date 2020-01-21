@@ -1,7 +1,3 @@
 # hello-world
-Learning GitHub basics...
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec consequat turpis sed orci consectetur efficitur. Nam vitae massa eu risus bibendum auctor eu a urna. Ut vehicula dapibus viverra. Ut euismod egestas consequat. Aliquam orci sapien, ullamcorper a lacus a, sodales finibus orci. Morbi viverra neque sapien, ac venenatis dui consectetur ut. Aenean egestas euismod arcu, et sollicitudin sapien varius et. Nam vulputate, urna eu faucibus condimentum, lacus orci pellentesque arcu, et aliquam tellus eros ut ex. Morbi dictum sagittis arcu, a iaculis quam posuere at. Nulla pulvinar condimentum dui, non condimentum orci sagittis a. Nullam vel tempus nunc. Cras tempus vel justo in dapibus. Proin sit amet ullamcorper ex, sed consequat metus. Curabitur vitae gravida sem. Curabitur a odio nec enim lacinia iaculis.
 
-Quisque in lectus eu massa dictum laoreet. Nunc purus nunc, fermentum nec interdum id, auctor a sem. Cras felis tortor, maximus eu auctor in, consequat id nulla. Etiam quis tellus varius, semper ante ac, scelerisque dui. Nullam posuere egestas enim, in rutrum sapien condimentum quis. Integer auctor auctor justo vel feugiat. Vestibulum placerat mauris sed elit dapibus suscipit. Donec tellus ex, fermentum et ante quis, vulputate efficitur sem. Integer sed turpis varius, finibus magna vitae, accumsan nisi.
-
-This is a line from R studio
+Working through Brad Duthie 
